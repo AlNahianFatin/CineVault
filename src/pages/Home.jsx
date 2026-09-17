@@ -2,11 +2,11 @@ import { useState } from "react";
 import LocationModal from "../components/LocationModal";
 
 const Home = () => {
-  const [click, setClick] = useState(false);
+  // const [click, setClick] = useState(false);
 
   return (
     <div>
-      <div className="text-center">
+      {/* <div className="text-center">
         <h1 className="text-6xl text-blue-300 font-extrabold">
           NextLevel <span className="text-blue-400">Weather</span>
         </h1>
@@ -24,7 +24,9 @@ const Home = () => {
           Check Weather
         </button>
       </div>
-      {click && <LocationModal onClose={() => setClick(false)} />}
+      {click && <LocationModal onClose={() => setClick(false)} />} */}
+      <h1 className="py-5 text-4xl flex justify-center">DISCOVER MOVIES</h1>
+      <h2 className="text-xl flex justify-center">Explore and discover your favorite movies from around the world.</h2>
     </div>
   );
 };

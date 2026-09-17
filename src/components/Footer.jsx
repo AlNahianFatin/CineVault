@@ -6,7 +6,9 @@ const Footer = () => {
     return (
         <div className="relative bg-blue-500 text-white min-w-screen text-xl flex justify-center gap-5 p-2">
             <h2>© {year} Cine Vault</h2>
-            <a className="px-7 py-1" href="https://github.com/AlNahianFatin/CineVault"><FaGithub /></a>
+            <a className="px-7 py-1" href="https://github.com/AlNahianFatin/CineVault">
+                <FaGithub />
+            </a>
         </div>
     );
 };
