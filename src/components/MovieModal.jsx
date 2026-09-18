@@ -83,7 +83,6 @@ export const MovieModal = ({ movie, onClose }) => {
         </div>
       </div>
 
-      {/* Dark background */}
       <form
         method="dialog"
         className="modal-backdrop bg-gray-800/60"

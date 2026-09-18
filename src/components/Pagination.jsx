@@ -1,24 +1,3 @@
-// export const Pagination = ({ currentPage, setCurrentPage }) => {
-//     const pages = [0, 1, 2, 3];
-
-//     return (
-//         <div className="join">
-//             {pages.map((page) => (
-//                 <button
-//                     key={page}
-//                     type="button"
-//                     className={`join-item btn btn-square ${currentPage === page ? "btn-primary" : ""
-//                         }`}
-//                     onClick={() => setCurrentPage(page)}
-//                 >
-//                     {page + 1}
-//                 </button>
-//             ))}
-//         </div>
-//     );
-// };
-
-
 export const Pagination = ({
   currentPage,
   totalPage,
