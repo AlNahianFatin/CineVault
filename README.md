@@ -34,9 +34,11 @@ CineVault is a dynamic and interactive web application designed for TV show enth
 
 ## 🖥️ Screenshots
 
+### Home Page
+
 ![Home Page Screenshot](./public/HomePage.png)
 
-### Property Details
+### TV Show Details
 
 ![TV Show Details Screenshot](./public/TVShowDetails.png)
 
