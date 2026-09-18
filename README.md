@@ -177,12 +177,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
--   **The Movie Database (TMDB)** for providing a comprehensive API for movie and TV show data. <!-- Assuming TMDB is the API source based on common practice for such apps. -->
+-   **The Movie Database (TVmaze)** for providing a comprehensive API for TV show data. 
 -   All the open-source libraries and tools that made this project possible.
 
 ## 📞 Support & Contact
 
--   📧 Email: [alnahianfatin7@gmail.com] <!-- TODO: Confirm actual contact email for AlNahianFatin -->
+-   📧 Email: [fatinnahian@gmail.com]
 -   🐛 Issues: [GitHub Issues](https://github.com/AlNahianFatin/CineVault/issues)
 
 ---
@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [AlNahian Fatin](https://github.com/AlNahianFatin)
+Made with ❤️ by [Al Nahian Fatin](https://github.com/AlNahianFatin)
 
 </div>
 
